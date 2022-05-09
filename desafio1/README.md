@@ -12,4 +12,4 @@ Uma observação importante é que o autor da frase não pode aparecer, exceto q
 - A imagem deve cobrir toda a tela disponível
 - A fonte principal é Helvetica
 
-img[layout](/layout_html.png)
+![layout](/layout_html.png)
