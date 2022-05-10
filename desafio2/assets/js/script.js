@@ -1,6 +1,6 @@
 let clock = document.querySelector('.clock')
 let greeting = document.querySelector('.greeting')
-let username = 'Fábio'
+let username = prompt('Olá, qual o seu nome?')
 
 function updateTime() {
     let now = new Date();
