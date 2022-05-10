@@ -17,5 +17,4 @@ O aluno enfrentará dificuldades para fazer a requisição interna, sendo necess
 - É permitido o uso de bibliotecas externas.
 - Manter o código organizado.
 
-
-api utilizada: ![link](http://allugo-frases.herokuapp.com/)
+api utilizada: [http://allugo-frases.herokuapp.com/](http://allugo-frases.herokuapp.com/)
